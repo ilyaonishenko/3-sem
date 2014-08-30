@@ -1,0 +1,5 @@
+/Users/nurfix/Projects/1_2_2_1/1_2_2_1/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/nurfix/Projects/1_2_2_1/1_2_2_1/bin/Debug/1_2_2_1.exe.mdb
+/Users/nurfix/Projects/1_2_2_1/1_2_2_1/bin/Debug/1_2_2_1.exe
+/Users/nurfix/Projects/1_2_2_1/1_2_2_1/obj/x86/Debug/1_2_2_1.exe
+/Users/nurfix/Projects/1_2_2_1/1_2_2_1/obj/x86/Debug/1_2_2_1.exe.mdb
