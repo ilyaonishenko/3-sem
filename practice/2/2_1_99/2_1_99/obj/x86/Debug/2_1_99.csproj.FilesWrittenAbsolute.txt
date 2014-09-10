@@ -1,0 +1,5 @@
+/Users/nurfix/COPY/Copy/2 sem/practice/2/2_1_99/2_1_99/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/nurfix/COPY/Copy/2 sem/practice/2/2_1_99/2_1_99/bin/Debug/2_1_99.exe.mdb
+/Users/nurfix/COPY/Copy/2 sem/practice/2/2_1_99/2_1_99/bin/Debug/2_1_99.exe
+/Users/nurfix/COPY/Copy/2 sem/practice/2/2_1_99/2_1_99/obj/x86/Debug/2_1_99.exe
+/Users/nurfix/COPY/Copy/2 sem/practice/2/2_1_99/2_1_99/obj/x86/Debug/2_1_99.exe.mdb
