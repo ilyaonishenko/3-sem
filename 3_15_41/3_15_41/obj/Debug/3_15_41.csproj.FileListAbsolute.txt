@@ -1,0 +1,9 @@
+C:\Users\ilya\Desktop\hello\3_15_41\3_15_41\bin\Debug\3_15_41.exe
+C:\Users\ilya\Desktop\hello\3_15_41\3_15_41\bin\Debug\3_15_41.pdb
+C:\Users\ilya\Desktop\hello\3_15_41\3_15_41\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ilya\Desktop\hello\3_15_41\3_15_41\obj\Debug\_3_15_41.Form1.resources
+C:\Users\ilya\Desktop\hello\3_15_41\3_15_41\obj\Debug\_3_15_41.Form2.resources
+C:\Users\ilya\Desktop\hello\3_15_41\3_15_41\obj\Debug\_3_15_41.Properties.Resources.resources
+C:\Users\ilya\Desktop\hello\3_15_41\3_15_41\obj\Debug\3_15_41.csproj.GenerateResource.Cache
+C:\Users\ilya\Desktop\hello\3_15_41\3_15_41\obj\Debug\3_15_41.exe
+C:\Users\ilya\Desktop\hello\3_15_41\3_15_41\obj\Debug\3_15_41.pdb
